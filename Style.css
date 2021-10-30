@@ -1,0 +1,97 @@
+  body {
+            background-image:url(pan.jpg);
+            padding: 5px;
+        }
+
+        .body {
+            margin: 10%;
+            background-color:transparent;
+            display: inline-block;
+            position: relative;
+            padding: 2px;
+            font-family: montserrat;
+            color: #000;
+            text-decoration:none;
+            z-index:1;
+        }
+        .body:hover{
+            background-color:#ffec52;
+            opacity:0.9;
+            border-radius:10%;
+            
+        }
+        .body1 {
+            position: relative;
+            color: #0A1931;
+        }
+
+        .titulo {
+            font-family:cursive;
+          color:#8B0000;
+        }
+
+        .contact {
+            margin: 5px;
+            padding: 1px;
+            text-align: center;
+            padding: 5px;
+        }
+
+        .bar menu {
+            
+            position: fixed;
+            border-radius: 20%;
+            z-index:1;
+            color:#000000;
+        }
+
+        .bread {
+            margin: auto auto auto 10px;
+            position: relative;
+            padding: 7px;
+        }
+        hr{
+            border:dotted #000000 6px;
+            border-bottom:none;
+            width:10%;
+            margin:100px auto;
+        }
+
+li {
+    font-size: larger;
+}
+    .contact {weidth:80%;
+      margin-left:auto;
+      margin-right:auto;
+}
+
+/* Style the Sticky icons on web page */   
+.stickyicon-list {   
+    position: fixed;   
+    top: 200px;   
+    transform: translateY(-50%);             
+    }         
+    .stickyicon-list a {   
+    display: block;   
+    text-align: center;   
+    padding: 8px;   
+    transition: all 0.5s ease;   
+    color: white;   
+    font-size: 20px;   
+    }         
+    /* HOver affect on sticky social media icons */   
+    .stickyicon-list a:hover {   
+    color: #000;   
+    width:10px;   
+    }   
+       
+    /* Now we have to design each icon of social media */         
+    .facebook {   
+    background: #3b5998;   
+    color: white;  
+    }         
+    .instagram {   
+    background: #3f729b;   
+    color: white;   
+    }         
+   
