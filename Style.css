@@ -28,7 +28,7 @@ body{
     background-color: #dddddd;
     border-radius: 2%;
     border-style:solid;
-    padding-block: 15px; /*Padding top and bottom*/ 
+    padding-block: 15px; /*Padding top and bottom*/
     position:sticky;
     top: 0;
     z-index: 2;
@@ -160,7 +160,7 @@ color: white;
 }
 .footer{
     color:#000;
-    background-color: #737b88;
+    background-color:#3f729b;
     text-align: center;
 }
 .images{
